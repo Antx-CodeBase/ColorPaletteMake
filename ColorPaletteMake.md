@@ -4,7 +4,7 @@
 > 
 > It's designed for creating swatch strips, color-scale graphics, legend cards, and anything else that requires laying out a smooth color ramp without doing it by hand.
 > 
-> ![dialog](./assets/ColorPaletteMake_Dialog.webp)
+> ![dialog](ColorPaletteMake_Dialog.webp)
 ---
 
 ### What it does
