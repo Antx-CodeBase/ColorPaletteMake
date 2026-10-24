@@ -175,7 +175,7 @@ Per-card transforms are applied by wrapping the card's elements in their own <g>
 
 ### Installing
 
-Download the extension from the [releases page](../../releases), then place the ColorPaletteMake folder inside your Inkscape extensions directory.
+Download the extension from the releases page, then place the ColorPaletteMake folder inside your Inkscape extensions directory.
 
 Windows
 
