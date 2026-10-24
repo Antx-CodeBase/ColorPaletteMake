@@ -8,6 +8,8 @@ So I made a tool of my own.
 
 > [!NOTE]
 > If you're reading this and want to know what this extension does, read the **[ColorPaletteMake write-up](./ColorPaletteMake.md)**.
+>
+> This repository is for documentation only. 
 
 ---
 
